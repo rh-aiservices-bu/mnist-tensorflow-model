@@ -11,10 +11,9 @@ This will require:
   * The ability to untar .tar.gz files
   * Access to the internet for pip installs
 
-You will need to unzip the Resources.tar.gz file which contains the MNIST dataset.  Open a Terminal window from the Launcher and type the following command into the terminal window:
+You will need to unzip the Resources.tar.gz file which contains the MNIST dataset.  Open a Terminal window from the Launcher and type the following command into the terminal window:  ### tar xvzf Resources.tar.gz
 
-tar xvzf Resources.tar.gz
-
+This command will create a Resources directory which will contain 2 data files used to train and test your Tensorflow model.
 
 Once you have cloned the mnist-tensorflow-model github repo into your JupyterLab session, follow the notebooks in numbered order:
   * 01-MNIST-Data-Exploration:   Covers some of the basics about data exploration and gives an intro to the MNIST dataset
