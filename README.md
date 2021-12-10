@@ -11,7 +11,9 @@ This will require:
   * The ability to untar .tar.gz files
   * Access to the internet for pip installs
 
-You will need to unzip the Resources.tar.gz file which contains the MNIST dataset.  Open a Terminal window from the Launcher and type the following command into the terminal window:  ### tar xvzf Resources.tar.gz
+You will need to unzip the Resources.tar.gz file which contains the MNIST dataset.  Open a Terminal window from the Launcher and type the following command into the terminal window:  
+
+### tar xvzf Resources.tar.gz
 
 This command will create a Resources directory which will contain 2 data files used to train and test your Tensorflow model.
 
