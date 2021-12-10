@@ -17,7 +17,6 @@ tar xvzf Resources.tar.gz
 
 
 Once you have cloned the mnist-tensorflow-model github repo into your JupyterLab session, follow the notebooks in numbered order:
-  * 00-MNIST-S3-Download.ipynb:  Covers the basics of downloading the MNIST data set from S3.
   * 01-MNIST-Data-Exploration:   Covers some of the basics about data exploration and gives an intro to the MNIST dataset
   * 02-MNIST-TensorFlow:         Covers creating the model, what layers are important, why to use certain ones, and training, testing, and saving the 
                                  model.
